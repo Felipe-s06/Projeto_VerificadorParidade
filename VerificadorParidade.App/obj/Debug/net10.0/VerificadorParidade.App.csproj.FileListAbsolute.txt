@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\Luiz_Felipe\VerificadorParidade\VerificadorParidade.App\bin\Debug\net10.0\VerificadorParidade.App.exe
+C:\Users\Felipe\Desktop\Luiz_Felipe\VerificadorParidade\VerificadorParidade.App\bin\Debug\net10.0\VerificadorParidade.App.deps.json
+C:\Users\Felipe\Desktop\Luiz_Felipe\VerificadorParidade\VerificadorParidade.App\bin\Debug\net10.0\VerificadorParidade.App.runtimeconfig.json
+C:\Users\Felipe\Desktop\Luiz_Felipe\VerificadorParidade\VerificadorParidade.App\bin\Debug\net10.0\VerificadorParidade.App.dll
+C:\Users\Felipe\Desktop\Luiz_Felipe\VerificadorParidade\VerificadorParidade.App\bin\Debug\net10.0\VerificadorParidade.App.pdb
+C:\Users\Felipe\Desktop\Luiz_Felipe\VerificadorParidade\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\Luiz_Felipe\VerificadorParidade\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Luiz_Felipe\VerificadorParidade\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Luiz_Felipe\VerificadorParidade\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Luiz_Felipe\VerificadorParidade\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.sourcelink.json
+C:\Users\Felipe\Desktop\Luiz_Felipe\VerificadorParidade\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.dll
+C:\Users\Felipe\Desktop\Luiz_Felipe\VerificadorParidade\VerificadorParidade.App\obj\Debug\net10.0\refint\VerificadorParidade.App.dll
+C:\Users\Felipe\Desktop\Luiz_Felipe\VerificadorParidade\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.pdb
+C:\Users\Felipe\Desktop\Luiz_Felipe\VerificadorParidade\VerificadorParidade.App\obj\Debug\net10.0\VerificadorParidade.App.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\Luiz_Felipe\VerificadorParidade\VerificadorParidade.App\obj\Debug\net10.0\ref\VerificadorParidade.App.dll
